@@ -13,8 +13,8 @@ let y1 = 200; // Player 1's y position
 let x2 = 300; // Player 2's x position
 let y2 = 300; // Player 2's y position
 
-let worldWidth = 3000; // Width of the world
-let worldHeight = 3000; // Height of the world
+let worldWidth = 10000; // Width of the world
+let worldHeight = 10000; // Height of the world
 let cameraX = 0; // Camera's x offset
 let cameraY = 0; // Camera's y offset
 
