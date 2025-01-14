@@ -1,3 +1,4 @@
+//agario replication attempt 
 let dots = [];
 let viruses = [];
 let spewedDots = [];
